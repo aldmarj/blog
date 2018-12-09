@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aldmarj/blog/issues"
   },
-  "homepage": "https://github.com/aldmarj/blog#readme"
+  "homepage": "https://github.com/aldmarj/blog#readme",
+  "dependencies": {
+    "react-router-dom": "^4.3.1"
+  }
 }
